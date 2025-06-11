@@ -45,30 +45,3 @@ Paste:
 
 # The Below is an Example for Postman Request
 ![GET Classes Example](images/get-classes.png)
-
-[
-    {
-        "id": 2,
-        "name": "Yoga",
-        "instructor": "Asha",
-        "datetime": "2025-06-12T18:44:22.750406+05:30",
-        "datetime_ist": "2025-06-12 18:44:22",
-        "available_slots": 10
-    },
-    {
-        "id": 3,
-        "name": "Zumba",
-        "instructor": "Raj",
-        "datetime": "2025-06-13T18:44:22.799502+05:30",
-        "datetime_ist": "2025-06-13 18:44:22",
-        "available_slots": 8
-    },
-    {
-        "id": 4,
-        "name": "HIIT",
-        "instructor": "Karan",
-        "datetime": "2025-06-14T18:44:29.669180+05:30",
-        "datetime_ist": "2025-06-14 18:44:29",
-        "available_slots": 5
-    }
-]
